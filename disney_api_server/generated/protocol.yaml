@@ -1,0 +1,7 @@
+attraction:
+  - updateAttractionData:
+  - getAttractions:
+  - addAttraction:
+  - updateAttraction:
+example:
+  - hello:

@@ -1,0 +1,6 @@
+class: Attraction
+table: attraction
+fields:
+  name: String
+  description: String
+  openingDate: DateTime
